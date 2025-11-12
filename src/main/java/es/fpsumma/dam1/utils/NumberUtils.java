@@ -53,4 +53,10 @@ public class NumberUtils {
         }
         return out;
     }
+
+    //Divide
+    public static double Divide(int a, int b) {
+        double a1 = a;
+        return a1 / b;
+    }
 }
